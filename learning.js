@@ -25,3 +25,21 @@ const difference=2-1
 
 console.log(sum)
 
+//strings are like the same in python
+const myStr= "This is a string"
+const alsoStr='This is also a string'
+
+//<a a> is like a new way to hold big strings and then the >link</a>' is a bit confusing
+const newStrtype='<a"new string type href="http://whatever.com"target="black">link</a>'
+
+//escape sequences in strings
+//   \' = single quote
+//   \" = double quote
+//   \\ = backslash
+//   \n = newline
+//   \t = tab
+//   \r = carriage return
+//   \b = backspace
+//   \f = form feed
+
+
